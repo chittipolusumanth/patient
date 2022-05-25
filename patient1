@@ -1,0 +1,33 @@
+{
+    "resourceType":"Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": ["Sumanth"],
+            "family": "Ch"
+
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1999-04-13",
+    "telecom": [
+        {
+            "value": "9876543210",
+            "use": "mobile",
+            "system": "phone"
+        },
+        {
+            "system": "email",
+            "value": "xyz@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "Virtusa Consulting Services Private Limited Sy No.115, Nanakramguda Village, Serilingampally Mandal   "
+            ],
+            "city": "Hyderbad",
+            "state": "Telangana",
+            "postalCode": "500032"
+        }
+    ]
